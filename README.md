@@ -26,3 +26,6 @@ Improve Productivity – Faster typing means more efficient work.
 Track Progress – Monitor your WPM over time.
 
 Gamified Learning – Fun, interactive feedback keeps you motivated.
+
+![Screenshot (29)](https://github.com/user-attachments/assets/8e2b09bc-6c65-45b8-8a9f-4b610ec34fdb)
+![Screenshot (28)](https://github.com/user-attachments/assets/f37a8168-9afc-4c12-b483-34556506b503)
