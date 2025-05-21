@@ -22,6 +22,7 @@ Built with HTML, CSS, and JavaScript, this project combines functionality with a
 Try it now and challenge yourself to type faster and more accurately!!
 
 Why Use This Typing Test?
+
 Improve Productivity – Faster typing means more efficient work.
 
 Track Progress – Monitor your WPM over time.
