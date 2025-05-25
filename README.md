@@ -19,7 +19,7 @@ Key Features:
 
 Built with HTML, CSS, and JavaScript, this project combines functionality with aesthetic appeal, making typing practice enjoyable.
 
-Try it now and challenge yourself to type faster and more accurately!!
+Try it now and challenge yourself to type faster and more accurately!
 
 Why Use This Typing Test?
 
