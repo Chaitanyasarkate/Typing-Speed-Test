@@ -8,6 +8,7 @@ A sleek, interactive tool to measure and improve your typing speed and accuracy
 
 Test your typing skills with this modern, visually appealing web application. Featuring a clean interface with smooth animations and real-time feedback, this typing test helps you track your words per minute (WPM), accuracy, and errors as you type.
 
+
 Key Features:
 
 
