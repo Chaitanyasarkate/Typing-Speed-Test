@@ -1,6 +1,6 @@
 Typing Speed Test
 
-here i have reese this website :https://typing-speeed-testing.netlify.app/
+here is this website link :https://typing-speeed-testing.netlify.app/
 
 
 A sleek, interactive tool to measure and improve your typing speed and accuracy
