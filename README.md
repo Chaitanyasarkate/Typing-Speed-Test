@@ -1,6 +1,5 @@
 Typing Speed Test
 
-
 website link :https://typing-speeed-testing.netlify.app/
 
 A sleek, interactive tool to measure and improve your typing speed and accuracy
@@ -16,12 +15,12 @@ Key Features:
 ✅ Performance Feedback – Get color-coded results (green for correct, red for errors).
 ✅ Interactive Animations – Smooth transitions and hover effects for an engaging experience.
 
+
 Built with HTML, CSS, and JavaScript, this project combines functionality with aesthetic appeal, making typing practice enjoyable.
 
 Try it now and challenge yourself to type faster and more accurately!
 
 Why Use This Typing Test?
-
 Improve Productivity – Faster typing means more efficient work.
 
 Track Progress – Monitor your WPM over time.
